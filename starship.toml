@@ -1,0 +1,20 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+[python]
+symbol = " "
+
+[lua]
+symbol = " "
+
+[c]
+symbol = " "
+
+[rust]
+symbol = " "
+
+[package]
+symbol = " "
+
+[directory]
+use_os_path_sep = false
+read_only = " "
