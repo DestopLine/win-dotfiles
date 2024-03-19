@@ -50,7 +50,7 @@ return new Action<IConfigContext>((IConfigContext context) =>
             new WorkspaceWidget()
             {
                 WorkspaceHasFocusColor = new Color(0x60, 0xdc, 0xe8), // 60dce8
-		WorkspaceIndicatingBackColor = background
+                WorkspaceIndicatingBackColor = background
             },
             new TitleWidget() 
             {
@@ -91,8 +91,8 @@ return new Action<IConfigContext>((IConfigContext context) =>
     string w5 = "media";
     string w6 = "sys";
     string w7 = "game";
-    string w8 = "misc";
-    string w9 = "other";
+    string w8 = "tool";
+    string w9 = "misc";
 
     /* Workspaces */
     // Array of workspace names and their layouts
