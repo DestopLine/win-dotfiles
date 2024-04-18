@@ -1,4 +1,4 @@
-# dotfiles
+# dotfiles for Windows
 `settings.json` is for Windows Terminal.
 ## Shell dependencies
 - bat `winget install --id sharkdp.bat`
